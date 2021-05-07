@@ -1,0 +1,104 @@
+/* QP Consulting */
+/* orange #EE870A */
+/* green #A2AD00 */
+/* brown #512b1b */
+
+
+
+
+.color-primary-0 { color: #3E5790 }    /* Main Primary color */
+.color-primary-1 { color: #8B9CC5 }
+.color-primary-2 { color: #5C72A6 }
+.color-primary-3 { color: #274280 }
+.color-primary-4 { color: #172F69 }
+
+
+#jumbo{
+margin:0 1px 1px 1px;
+background:#274280;
+color:#8B9CC5;
+}
+
+#jumbo-header{
+margin:0 1px 1px 1px;
+background:#172F69;
+color:#f8fff0;
+}
+
+a:hover {
+	color: #EE870A;
+}
+
+a{
+	color: #0072b9;
+	
+}
+
+.navbar-toggle-style{
+    background:#3E5790;
+}
+
+.navbar-nav > li > a{
+    color: #f8fff0;
+	font-weight: bold;
+}
+
+
+.navbar-nav > li > a:hover{
+    color:#172F69;
+    background:#8B9CC5;
+	font-weight: bold;
+}
+
+.jumbotron > div > h2{
+	margin:-10px 1px -20px 1px;
+}
+
+.jumbotron > li > a{
+    color: #172F69;
+	font-weight: bold;
+}
+
+
+.jumbotron > li > a:hover{
+    color: #EE870A;
+    background:#4682B4;
+	font-weight: bold;
+}
+
+.container {
+	font-size: 12px;
+}
+
+.container > div > div > p> a{
+    color: #172F69;
+}
+
+
+.container > div > div > p> a:hover{
+    color: #274280;
+	font-weight: bold;
+}
+
+.col-md-4 > h2{
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.col-md-6 > h2{
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.col-md-12 > h2{
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.container > h2{
+	font-size: 24px;
+	font-weight: bold;
+	color:#f8fff0;
+}
+
+
